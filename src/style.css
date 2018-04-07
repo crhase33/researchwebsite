@@ -1,0 +1,19 @@
+body{
+
+padding: 80px;
+
+}
+table,th,td {
+	border: 10px solid black;
+}
+label{
+	display: inline-block;
+    float:left;
+    clear: left;
+    width: 250px;
+    text-align: right;
+}
+input {
+	display: inline-block;
+	float:left;
+  }
